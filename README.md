@@ -50,6 +50,19 @@
 > |       └── model_2.ipynb
 > ```
 >
+#### Weijiang Pan
+> ```shell
+> cmpt-726-project
+> |
+> ├── models
+> |   └── 
+> |
+> └── code
+> |   └── model
+> |       └── sing_language_resnet50.ipynb
+> |       
+> ```
+
 > `gesturePredict.ipynb` : real-time gesture recognize, pls do the gesture in ROI (region of interest) box.
 >
 > `model_self.model`: trained data from `model_2.ipynb`
@@ -67,4 +80,5 @@
 > `model_simple.ipynb`: A simple CNN model with 1 layer to test data
 >
 > `model_2.ipynb`: A simple CNN model with 3 layers to test data
+
 
