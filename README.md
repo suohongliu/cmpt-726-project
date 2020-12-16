@@ -11,6 +11,20 @@
 > source activate project_726
 > ```
 
+#### Dataset:
+
+> * sign language MNIST: https://www.kaggle.com/datamunge/sign-language-mnist
+>
+> * ```shell
+>   cmpt-726-project
+>   ├── data (bigger dataset with 17000 samples)
+>   |   └── test.csv 
+>   |   └── train.csv 
+>   │   └── data2 (small dataset with 3000 samples )
+>   │       └── test.csv
+>   |       └── train.csv
+>   ```
+
 #### Suohong Liu
 
 > ```shell
