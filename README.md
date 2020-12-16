@@ -68,3 +68,16 @@
 >
 > `model_2.ipynb`: A simple CNN model with 3 layers to test data
 
+#### Weijiang Pan
+> ```shell
+> cmpt-726-project
+> |
+> ├── models
+> |   └── 
+> |
+> └── code
+> |   └── model
+> |       └── sing_language_resnet50.ipynb
+> |       
+> ```
+
