@@ -80,7 +80,9 @@
 > `model_simple.ipynb`: A simple CNN model with 1 layer to test data
 >
 > `model_2.ipynb`: A simple CNN model with 3 layers to test data
+>
 > `sing_language_resnet50.ipynb`: ResNet CNN model with 9 layers to test data
+>
 > `resnet.model`: trained data from `sing_language_resnet50.ipynb`
 
 
