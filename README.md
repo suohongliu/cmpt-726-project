@@ -55,7 +55,7 @@
 > cmpt-726-project
 > |
 > ├── models
-> |   └── 
+> |   └── resnet.model
 > |
 > └── code
 > |   └── model
