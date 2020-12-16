@@ -2,8 +2,6 @@
 
 ##### Author: Bowen Song,  Suohong Liu, Weijiang Pan
 
-
-
 #### Set Environment
 
 > ```shell
@@ -12,3 +10,47 @@
 > #activae environment
 > source activate project_726
 > ```
+
+#### Suohong Liu
+
+> ```shell
+> cmpt-726-project
+> ├── gesturePredict.ipynb
+> |
+> ├── models
+> |   └── model_self.model
+> |
+> ├── data
+> |   └── demo.mp4
+> |   └── test.csv
+> |   └── train.csv
+> │   └── data2
+> │       └── test.csv
+> |       └── train.csv
+> └── code
+> |   └── data_collection
+> |       └── collectImage.ipynb
+> |       └── imageToCsv.ipynb
+> |   └── model
+> |       └── model_simple.ipynb
+> |       └── model_2.ipynb
+> ```
+>
+> `gesturePredict.ipynb` : real-time gesture recognize, pls do the gesture in ROI (region of interest) box.
+>
+> `model_self.model`: trained data from `model_2.ipynb`
+>
+> `demo.mp4`: a demo of real-time ASL recognize using `gesturePredict.ipynb`
+>
+> `test.csv`: testing data
+>
+> `train.csv `: training data
+>
+> `collectImage.ipynb`: collect data using OpenCV. 
+>
+> `imageToCsv.ipynb`: Transform images to pixels and save in csv file. --> output `train.csv & test.csv` 
+>
+> `model_simple.ipynb`: A simple CNN model with 1 layer to test data
+>
+> `model_2.ipynb`: A simple CNN model with 3 layers to test data
+
