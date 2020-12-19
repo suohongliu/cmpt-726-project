@@ -63,6 +63,20 @@
 > |       
 > ```
 
+#### Bowen Song
+> ```shell
+> cmpt-726-project
+> |
+> ├── models
+> |   └── LeNet-5
+> |       └── LeNet-5-weights-improvement-41-0.00.hdf5
+> |
+> └── code
+> |   └── model
+> |       └── LeNet5_Model.py
+> |       
+> ```
+
 > `gesturePredict.ipynb` : real-time gesture recognize, pls do the gesture in ROI (region of interest) box.
 >
 > `model_self.model`: trained data from `model_2.ipynb`
@@ -84,6 +98,11 @@
 > `sing_language_resnet50.ipynb`: ResNet CNN model with 9 layers to test data
 >
 > `resnet.model`: trained data from `sing_language_resnet50.ipynb`
+>
+> `LeNet-5-weights-improvement-41-0.00.hdf5`: trained weight for LeNet-5 model
+>
+> `LeNet5_Model.py`: training LeNet-5 model
+
 
 
 
